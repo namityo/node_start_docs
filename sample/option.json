@@ -1,0 +1,8 @@
+{
+    "file": "Book.xlsx",
+    "sheet": "Sheet1",
+    "datas": [
+        { "cell" : 0, "rowStart" : 1, "rowEnd" : 13 },
+        { "cell" : 1, "rowStart" : 1, "rowEnd" : 13 }
+    ]
+}
